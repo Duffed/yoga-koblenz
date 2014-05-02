@@ -1,0 +1,149 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,rembed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+/* Farben
+
+Grün: #a5c929
+Grün Text: #a8c722
+Rosa: #b67294
+Grau: #78797b
+
+*/
+
+/* General */
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+::selection {background: #000;color: #a5c929;}
+::-moz-selection {background: #000;color: #a5c929;}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+body {
+	background: #a5c929;
+	font-family: "Open Sans";
+}
+.wrapper{
+	max-width: 960px;
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.box_shadow {
+	box-shadow: 0px 0px 3px black;
+}
+h1,h2,h3,h4,h5,h6 {
+	color:#a8c722;
+}
+a {
+	color: #b67294;
+}
+p {
+	margin:1em 0;
+}
+h1 { font-size: 2em}
+h2 { font-size: 1.5em;}
+
+
+/*Header*/
+#header_text{
+	margin-bottom: 150px;
+}
+header h1 {
+	text-align: center;
+	padding:.2em .3em .3em .3em;
+	color: white;
+	text-shadow:2px 2px 2px #78797b;
+	background:#a5c929;
+	
+}
+header {
+
+}
+
+#logo_container {
+	margin:auto;
+	position: relative;
+	display: table;
+}
+	#logo_container span{
+		display: table-cell;
+		width: 30%;
+		vertical-align: middle;
+		color: #b67294;
+		font-weight: bold;
+		font-size: 1.1em
+	}
+	#logo_container span:first-child {
+		text-align: right;
+		padding-right: 0;
+	}
+	#logo_container span:last-child {
+		text-align: left;
+		padding-left: 0;
+	}
+	#logo_container span:nth-child(2) {
+		text-align: center;
+	}
+
+#main_nav {
+	background: #78797b;
+	text-align: center;
+
+}
+	#main_nav ul {
+		list-style-type: none;
+		padding:.7em;
+	}
+	#main_nav ul li {
+		display: inline-block;
+		margin:0 .4em;
+		color: white;
+		font-size: 1.1em;
+	}
+
+
+/*content*/
+div.content {
+	padding-bottom: 200px;
+	min-height: 600px;
+	position: relative;
+	background: #fff url(images/klangschale.jpg) center bottom no-repeat;
+}
+div.innerwrapper {
+	padding:2em 3em;
+}
+
+
+/*Footer*/
+#footer_nav {
+	position: absolute;
+	bottom:0;
+	right: 0;
+	display: block;
+	text-align: right;
+	padding:.7em;
+}
+	#footer_nav ul {
+		list-style-type: none;
+	}
+	#footer_nav ul li {
+		display: inline-block;
+		margin:0 .4em;
+		color:#78797b;
+		font-weight: bold;
+	}
+
+footer {
+	clear: both;
+	background: #78797b;
+	text-align: center;
+	color: white;
+	padding: 1em;
+}
