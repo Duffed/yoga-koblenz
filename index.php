@@ -1,15 +1,17 @@
 <!doctype html>
 <html>
 	<head>		
-		<title>Jaklef - Musiker/Rapper aus Koblenz. YouTube, Facebook, Instagram, Soundcloud</title>	
+		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
 		<?php include('include/head.html') ?>
 	</head>
 <body>
 	<?php include('include/header.html') ?>
 	<!-- content -->
-	<h2>Hallo</h2>
-	<p>Hier steht ein text!</p>
-	<!-- content -->
+	<h2 class="index">
+		Ihr seid herzlich willkommen,<br/>
+		den Weg der Achtsamkeit <br/>
+		gemeinsam zu gehen
+	</h2>	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>
 </html>
