@@ -5,7 +5,7 @@
 		<?php include('include/head.html') ?>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header_index.html') ?>
 	<!-- content -->
 	<h2 class="index">
 		Ihr seid herzlich willkommen,<br/>

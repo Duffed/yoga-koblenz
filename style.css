@@ -3,8 +3,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* Farben
 
 Grün: #a5c400
-Grün Text: #a8c722
-Rosa: #a56988
+Grün Text: #8cb110
+Rosa: #ba7092
 Grau: #595a59
 
 */
@@ -24,6 +24,8 @@ Grau: #595a59
 	display: table;
 	clear: both;
 }
+.left {float: left;}
+.right {float: right;}
 
 body {
 	font-family: "Open Sans";
@@ -39,17 +41,51 @@ body {
 	box-shadow: 0px 0px 3px black;
 }
 h1,h2,h3,h4,h5,h6 {
-	color:#a8c722;
+	color:#8cb110;
+	font-weight: bold;
 }
-a {
-	color: #a56988;
+a,
+a:focus,
+a:visited,
+a:active {
+	color: #ba7092;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 p {
-	margin:1em 0;
+	margin:.8em 0 1.2em 0;
+	line-height: 1.3em;
 }
 h1 { font-size: 2em}
-h2 { font-size: 1.5em;}
-
+h2 { 
+	font-size: 1.3em; 
+}
+table {
+	margin:2em 0;
+	line-height: 1.3em;
+}
+table#termine {
+	margin:.8em 0 1.2em 0;
+	line-height: 1.1em;
+}
+table#termine td:first-child {
+	width: 8em
+}
+table td,
+table th{
+	padding:.3em 0;
+}
+table th {
+	width:8.125em;
+	text-align: left;
+	font-weight: bold;
+	color:#8cb110;
+}
+b {
+	font-weight: bold;
+}
 
 /*Header*/
 #header_text{
@@ -58,21 +94,41 @@ h2 { font-size: 1.5em;}
 header h1 {
 	text-align: center;
 	padding:.2em .3em .3em .3em;
-	color: white;
-	text-shadow:2px 2px 2px #595a59;
 	background:#a5c400;
-	
+}
+header h1 a,
+header h1 a:focus,
+header h1 a:visited,
+header h1 a:active {
+	text-shadow:2px 2px 2px #595a59;
+	color:white;
+	text-decoration: none;
+}
+header h1 a:hover {
+	color:#eee;
+	text-decoration: none;
 }
 header {
 
 }
 /*logo*/
+#index_logo_container {
+	text-align: center;
+}
+#index_logo_container h2 {
+	color:#ba7092;
+	font-size: 1.8em;
+	padding:.8em 0;
+}
+#index_logo_container img {
+	margin:auto;
+}
 #logo_container {
 	width:100%;
 	position: relative;
 	font-size: 1.1em;
 	font-weight: bold;
-	color: #a56988;
+	color: #ba7092;
 	height:118px;
 }
 	#logo_container span{
@@ -109,18 +165,36 @@ header {
 	#main_nav ul li {
 		display: inline-block;
 		margin:0 1em;
+	}
+	#main_nav ul li a,
+	#main_nav ul li a:focus,
+	#main_nav ul li a:active,
+	#main_nav ul li a:visited,
+	footer a,
+	footer a:visited,
+	footer a:focus,
+	footer a:active {
+		color:white;
+		text-decoration: none;
 		color: white;
 		font-size: 1.1em;
+	}
+	#main_nav ul li a:hover {
+		color: #ccc;
 	}
 
 
 /*content*/
+img#rosi {
+	margin:0 20px 20px 0;
+}
 h2.index {
 	text-align: center;
 	font-style: italic;
 	font-size: 2em;
 	line-height: 2em;
 	color:#555;
+	font-weight: normal;
 }
 div.content {
 	padding-bottom: 200px;
@@ -129,9 +203,20 @@ div.content {
 	background: #fff url(images/klangschale.jpg) center bottom no-repeat;
 }
 div.innerwrapper {
-	padding:2em 3em;
+	padding:3em 5em;
 }
-
+ul#links {
+	list-style-type: none;
+	margin:.8em 0 1.2em 0;
+}
+ul#links li {
+	float: left;
+	width: 50%;
+	margin:.8em 0;
+}
+ul#links li:nth-child(even) {
+	padding-left:40px;
+}
 
 /*Footer*/
 #footer_nav {
@@ -148,8 +233,17 @@ div.innerwrapper {
 	#footer_nav ul li {
 		display: inline-block;
 		margin:0 .4em;
+	}
+	#footer_nav ul li a,
+	#footer_nav ul li a:active,
+	#footer_nav ul li a:focus,
+	#footer_nav ul li a:visited {
 		color:#595a59;
 		font-weight: bold;
+		text-decoration: none;
+	}
+	#footer_nav ul li a:hover {
+		color:#000;
 	}
 
 footer {
