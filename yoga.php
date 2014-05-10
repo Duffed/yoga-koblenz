@@ -3,6 +3,16 @@
 	<head>		
 		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
 		<?php include('include/head.html') ?>
+		<script>
+			$(document).ready(function(){
+				$("#nav_yoga").addClass("current_page");
+
+				$("#yogasutra").click(function(){
+					$("div.yogasutra_container").slideToggle("fast");
+					$("p.yogasutra_hide").toggle("fast");
+				});
+			});
+		</script>
 	</head>
 <body>
 	<?php include('include/header.html') ?>
@@ -41,64 +51,68 @@
 	Ich arbeite in <a href="mein_yoga.php">meinem Yoga Stil</a> im Geiste des Yoga-Sutras. So wie Desikachar betont, sollte die
 	Art und Weise des Übens uns „näher zu uns selbst führen“.</p>
 
-	<h2 id="yogasutra">Yogasutra</h2>
-	<p>Patanjali, der bedeutendste Lehrer des Yoga, verfasste um Christi Geburt das Yogasutra.
-	Sutra bedeutet Faden und ist eine Dichtungsform des Sanskrit, der alten Sprache Indiens.
-	Es ist mit nur 195 Sätzen sehr kurz und jeder einzelne Satz ist sehr gehaltvoll.
-	Der Zusammenhang der Sätze gleicht einer Perlenkette, aus einem Faden bestehend, der einzelne
-	kostbare Perlen zusammenhält.</p>
+	<h2 id="yogasutra" class="pointer">Yogasutra</h2>
+	<p class="yogasutra_hide">...</p>
+	<div class="yogasutra_container">
+		
+		<p>Patanjali, der bedeutendste Lehrer des Yoga, verfasste um Christi Geburt das Yogasutra.
+		Sutra bedeutet Faden und ist eine Dichtungsform des Sanskrit, der alten Sprache Indiens.
+		Es ist mit nur 195 Sätzen sehr kurz und jeder einzelne Satz ist sehr gehaltvoll.
+		Der Zusammenhang der Sätze gleicht einer Perlenkette, aus einem Faden bestehend, der einzelne
+		kostbare Perlen zusammenhält.</p>
 
-	<p>In den vergangenen beiden Jahrtausende gab es viele Kommentare zum Yogasutra.
-	R.Sriram hat 2002 das Yogasutra im Kontext der Moderne klar übersetzt und erläutert.
-	„In vier Kapiteln geht es darum, das meinende, denkende Selbst zu erforschen und zu verstehen.
-	Das Yogastura inspiriert uns, ihm auf die Schliche zu kommen und einen klaren Weg aus
-	Schwierigkeiten zu fi nden. Es bietet viele Lösungsmodelle für unterschiedliche Fragen, die sich
-	auch in unserem modernen Leben stellen.“</p>
+		<p>In den vergangenen beiden Jahrtausende gab es viele Kommentare zum Yogasutra.
+		R.Sriram hat 2002 das Yogasutra im Kontext der Moderne klar übersetzt und erläutert.
+		„In vier Kapiteln geht es darum, das meinende, denkende Selbst zu erforschen und zu verstehen.
+		Das Yogastura inspiriert uns, ihm auf die Schliche zu kommen und einen klaren Weg aus
+		Schwierigkeiten zu fi nden. Es bietet viele Lösungsmodelle für unterschiedliche Fragen, die sich
+		auch in unserem modernen Leben stellen.“</p>
 
-	<p>Im zweiten der insgesamt vier Kapitel beschreibt Patanjali den bekannten achtgliedrigen Pfad
-	des Yoga:</p>
+		<p>Im zweiten der insgesamt vier Kapitel beschreibt Patanjali den bekannten achtgliedrigen Pfad
+		des Yoga:</p>
 
-	<table>
-		<tr>
-			<th>1. Yamas</th>
-			<td>Verhaltensweisen, die ein friedliches Lebens im Einklang mit sich selbst und
-				der Welt fördern: <br>
-				Gewaltlosigkeit, Wahrhaftigkeit, Nicht-Stehlen, Mäßigung, Nicht Anhäufen</td>
-		</tr>
-		<tr>
-			<th>2. Niyamas</th>
-			<td>Qualitäten, die unsere persönliche Entwicklung fördern: <br>
-				Reinheit, Zufriedenheit, Disziplin, Selbststudium, Hingabe</td>
-		</tr>
-		<tr>
-			<th>3. Asana</th>
-			<td>eine stabile, angenehme Sitzhaltung</td>
-		</tr>
-		<tr>
-			<th>4. Pranayama</th>
-			<td>Atemführung</td>
-		</tr>
-		<tr>
-			<th>5. Pratyahara</th>
-			<td>das Zurückziehen der Sinne</td>
-		</tr>
-		<tr>
-			<th>6. Dharana</th>
-			<td>Konzentration</td>
-		</tr>
-		<tr>
-			<th>7. Dhyana</th>
-			<td>Meditation</td>
-		</tr>
-		<tr>
-			<th>8. Samadhi</th>
-			<td>Glückseligkeit, vollkommene Erkenntnis, Einheit</td>
-		</tr>
-	</table>
+		<table>
+			<tr>
+				<th>1. Yamas</th>
+				<td>Verhaltensweisen, die ein friedliches Lebens im Einklang mit sich selbst und
+					der Welt fördern: <br>
+					Gewaltlosigkeit, Wahrhaftigkeit, Nicht-Stehlen, Mäßigung, Nicht Anhäufen</td>
+			</tr>
+			<tr>
+				<th>2. Niyamas</th>
+				<td>Qualitäten, die unsere persönliche Entwicklung fördern: <br>
+					Reinheit, Zufriedenheit, Disziplin, Selbststudium, Hingabe</td>
+			</tr>
+			<tr>
+				<th>3. Asana</th>
+				<td>eine stabile, angenehme Sitzhaltung</td>
+			</tr>
+			<tr>
+				<th>4. Pranayama</th>
+				<td>Atemführung</td>
+			</tr>
+			<tr>
+				<th>5. Pratyahara</th>
+				<td>das Zurückziehen der Sinne</td>
+			</tr>
+			<tr>
+				<th>6. Dharana</th>
+				<td>Konzentration</td>
+			</tr>
+			<tr>
+				<th>7. Dhyana</th>
+				<td>Meditation</td>
+			</tr>
+			<tr>
+				<th>8. Samadhi</th>
+				<td>Glückseligkeit, vollkommene Erkenntnis, Einheit</td>
+			</tr>
+		</table>
 
-	<p>und gibt Anleitung zu Körperübungen: <br>
-	a) kraftvoll üben und dabei leicht und verkrampft bleiben, <br>
-	b) die Aufmerksamkeit des Geistes nicht verändern, sondern auf etwas Konstantes ausrichten.</p>
+		<p>und gibt Anleitung zu Körperübungen: <br>
+		a) kraftvoll üben und dabei leicht und verkrampft bleiben, <br>
+		b) die Aufmerksamkeit des Geistes nicht verändern, sondern auf etwas Konstantes ausrichten.</p>
+	</div>
 	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>

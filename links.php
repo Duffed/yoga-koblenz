@@ -3,6 +3,11 @@
 	<head>		
 		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
 		<?php include('include/head.html') ?>
+		<script>
+			$(document).ready(function(){
+				$("#nav_links").addClass("current_page");
+			});
+		</script>
 	</head>
 <body>
 	<?php include('include/header.html') ?>

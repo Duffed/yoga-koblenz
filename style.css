@@ -26,6 +26,7 @@ Grau: #595a59
 }
 .left {float: left;}
 .right {float: right;}
+.pointer {cursor: pointer;}
 
 body {
 	font-family: "Open Sans";
@@ -175,6 +176,9 @@ header {
 	#main_nav ul li a:hover {
 		color: #ccc;
 	}
+	#main_nav ul li.current_page a{
+		color:#cc769e;
+	}
 
 
 /*content*/
@@ -211,6 +215,11 @@ ul#links li:nth-child(even) {
 	padding-left:40px;
 }
 
+/* Yogasutra */
+div.yogasutra_container {
+	display: none;
+}
+
 /*Footer*/
 #footer_nav {
 	position: absolute;
@@ -237,6 +246,9 @@ ul#links li:nth-child(even) {
 	}
 	#footer_nav ul li a:hover {
 		color:#000;
+	}
+	#footer_nav ul li.current_page a {
+		color:#ba7092;
 	}
 
 footer {
