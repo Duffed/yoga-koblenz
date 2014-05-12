@@ -1,0 +1,32 @@
+	<script type="text/javascript">
+
+		// jquery
+		$(document).ready(function(){
+			//hide menu 
+			$("nav ul").addClass("displaynone");
+
+			//toggle
+			$("#nav_button").click(function(){
+				$("#main_nav ul").toggle();
+				$("#nav_button").toggleClass("active");
+			});
+
+			//Above 767px remove style attributes
+			$(window).resize(function(){
+				if(window.innerWidth > 740) {
+					$("nav ul").removeAttr("style");
+				}
+			});
+		});
+	</script>
+
+	<nav id="main_nav">
+		<div id="nav_button" class="icon-menu onlymobile pointer">Menü</div>
+		<ul class="notmobile">
+			<li id="nav_rosi"><a href="rosi.php">Rosi Kracht-Zech</a></li>
+			<li id="nav_yoga"><a href="yoga.php">Yoga</a></li>
+			<li id="nav_mein_yoga"><a href="mein_yoga.php">Mein Yoga Stil</a></li>
+			<li id="nav_kurse"><a href="kurse.php">Kurse</a></li>
+			<li id="nav_schwangere"><a href="schwangere.php">Yoga für Schwangere</a></li>
+		</ul>
+	</nav> <!-- #main_nav -->

@@ -10,7 +10,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Kurse für Einsteiger und Fortgeschrittene</h2>
 	<p>Es wird in Kleingruppen mit maximal 12 Teilnehmerinnen geübt. <br>

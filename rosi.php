@@ -10,7 +10,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<img src="images/rosi_b.jpg" class="left" id="rosi">
 

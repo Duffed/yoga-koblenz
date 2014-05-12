@@ -15,7 +15,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Hatha Yohga</h2>	
 	<p>Yoga ist ein Übungsweg, der über mehrere Jahrtausende hinweg in Indien entwickelt und überliefert
@@ -51,7 +51,7 @@
 	Ich arbeite in <a href="mein_yoga.php">meinem Yoga Stil</a> im Geiste des Yoga-Sutras. So wie Desikachar betont, sollte die
 	Art und Weise des Übens uns „näher zu uns selbst führen“.</p>
 
-	<h2 id="yogasutra" class="pointer">Yogasutra</h2>
+	<h2 id="yogasutra" class="pointer">Yogasutra <span class="info-text">(Ein-/Ausblenden)</span></h2>
 	<p class="yogasutra_hide">...</p>
 	<div class="yogasutra_container">
 		

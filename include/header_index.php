@@ -5,15 +5,7 @@
 </header>
 
 <div class="wrapper box_shadow">
-	<nav id="main_nav">
-		<ul>
-			<li><a href="rosi.php">Rosi Kracht-Zech</a></li>
-			<li><a href="yoga.php">Yoga</a></li>
-			<li><a href="mein_yoga.php">Mein Yoga Stil</a></li>
-			<li><a href="kurse.php">Kurse</a></li>
-			<li><a href="schwangere.php">Yoga für Schwangere</a></li>
-		</ul>
-	</nav> <!-- #main_nav -->
+	<?php include('nav.html') ?>
 
 	<div class="content">
 

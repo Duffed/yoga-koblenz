@@ -10,7 +10,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Yoga für Schwangere</h2>
 	<p>Yoga bietet die Möglichkeit, die Frauen in der besonderen Lebensphase der Schwangerschaft

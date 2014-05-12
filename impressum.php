@@ -10,7 +10,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Kontakt</h2>
 	<p>Rosemarie Kracht-Zech <br>

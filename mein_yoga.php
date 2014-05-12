@@ -10,7 +10,7 @@
 		</script>
 	</head>
 <body>
-	<?php include('include/header.html') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Ich beginne mit einem Gong</h2>	
 	<p>Die Arbeit als Entspannungstherapeutin basiert auf meiner langjährigen Yogapraxis und Meditationserfahrung.</p>
