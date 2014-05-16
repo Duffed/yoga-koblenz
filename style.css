@@ -209,12 +209,12 @@ header {
 
 /*nav*/
 #nav_button {
-	padding:1em 0;
+	padding:.8em 0;
 	color:white;
 	border-bottom: 1px solid transparent;
 }
 #nav_button.active {
-	color:#ba7092;
+	color: #ccc;
 }
 #main_nav {
 	background: url(images/nav_bg.png);
