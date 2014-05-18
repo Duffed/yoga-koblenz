@@ -23,15 +23,15 @@
 	<h3>Termine:</h3>
 	<table id="termine">
 		<tr>
-			<td>Dienstags:</td>
+			<td>dienstags:</td>
 			<td>9 Uhr</td>
 		</tr>
 		<tr>
-			<td>Mittwochs:</td>
+			<td>mittwochs:</td>
 			<td>18 Uhr und 20 Uhr</td>
 		</tr>
 		<tr>
-			<td>Donnerstags:</td>
+			<td>donnerstags:</td>
 			<td>9.15 Uhr und 20 Uhr</td>
 		</tr>
 	</table>
@@ -41,7 +41,7 @@
 	Schenkendorfstr. 24 <br>
 	56068 Koblenz</p>
 
-	<p><b>Donnerstags:</b><br>
+	<p><b>donnerstags:</b><br>
 	Yogaschule R. Itschert <br>
 	Simrockstr. 7a, <br>
 	56075 Koblenz Oberwerth</p>

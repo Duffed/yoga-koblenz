@@ -28,6 +28,7 @@ Grau: #595a59
 .left {float: left;}
 .right {float: right;}
 .pointer {cursor: pointer;}
+.rosa:before, .rosa {color:#ba7092;}
 
 /* Icon */
 @font-face {
@@ -100,7 +101,7 @@ body {
 	margin:0 auto;
 }
 .box_shadow {
-	box-shadow: 0px 0px 3px black;
+	box-shadow: 0px 0px 3px #999;
 }
 h1,h2,h3,h4,h5,h6 {
 	color:#8cb110;
@@ -116,6 +117,8 @@ a:active {
 a:hover {
 	text-decoration: underline;
 }
+p.topmargin {margin:.8em 0 0 0;}
+p.bottommargin {margin: 0 0 1.2em 0}
 p {
 	margin:.8em 0 1.2em 0;
 	line-height: 1.3em;
@@ -151,7 +154,7 @@ b {
 
 /*Header*/
 #header_text{
-	margin-bottom: 180px;
+	margin-bottom: 190px;
 }
 header h1 {
 	text-align: center;
@@ -246,7 +249,7 @@ header {
 		color: #ccc;
 	}
 	#main_nav ul li.current_page a{
-		color:#cc769e;
+		color:  #8cb110;
 	}
 
 
@@ -324,7 +327,7 @@ span.info-text {
 		color:#000;
 	}
 	#footer_nav ul li.current_page a {
-		color:#ba7092;
+		color: #8cb110;
 	}
 
 footer {

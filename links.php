@@ -14,19 +14,19 @@
 	<!-- content -->
 	<h2>Links</h2>
 	<ul id="links" class="clearfix">
-		<li><a href="http://www.spiraldynamik.com">spiraldynamik.com</a></li>
-		<li><a href="http://www.dorisechlin.ch">dorisechlin.ch</a></li>
-		<li><a href="http://www.helga-simon-wagenbach.de">helga-simon-wagenbach.de</a></li>
-		<li><a href="http://www.sriram.de">sriram.de</a></li>
-		<li><a href="http://www.birgit-hampe.de">birgit-hampe.de</a></li>
-		<li><a href="http://www.intersein.de (Thich Nhât Hanh)">intersein.de (Thich Nhât Hanh)</a></li>
-		<li><a href="http://www.west-oestliche-weisheit.de">west-oestliche-weisheit.de</a></li>
-		<li><a href="http://www.sylvia-wetzel.de">sylvia-wetzel.de</a></li>
-		<li><a href="http://www.sylvia-kolk.de">sylvia-kolk.de</a></li>
-		<li><a href="http://www.nmr.mgh.harvard.edu/~britta/">nmr.mgh.harvard.edu/~britta/</a></li>
-		<li><a href="http://www.hebania.de">hebania.de</a></li>
-		<li><a href="http://www.profamilia-rlp.de/de/beratungsstellen/koblenz">profamilia-rlp.de (Koblenz)</a></li>
-		<li><a href="http://www.yoga-kassel.de">yoga-kassel.de</a></li>
+		<li><a href="http://www.spiraldynamik.com">Spiraldynamik</a></li>
+		<li><a href="http://www.dorisechlin.ch">Doris Echlin</a></li>
+		<li><a href="http://www.helga-simon-wagenbach.de">Helga Simon Wagenbach</a></li>
+		<li><a href="http://www.sriram.de/yogaweg/index.shtml">R. Sriram</a></li>
+		<li><a href="http://www.birgit-hampe.de">Birgit Hampe</a></li>
+		<li><a href="http://www.intersein.de (Thich Nhât Hanh)">Thich Nhât Hanh</a></li>
+		<li><a href="http://www.west-oestliche-weisheit.de">Willigis Jäger</a></li>
+		<li><a href="http://www.sylvia-wetzel.de">Sylvia Wetzel</a></li>
+		<li><a href="http://www.sylvia-kolk.de">Sylvia Kolk</a></li>
+		<li><a href="http://www.nmr.mgh.harvard.edu/~britta/">Britta Hölzel</a></li>
+		<li><a href="http://www.hebania.de">Hebania Hebammenpraxis</a></li>
+		<li><a href="http://www.profamilia-rlp.de/de/beratungsstellen/koblenz">Profamilia Koblenz</a></li>
+		<li><a href="http://www.yoga-kassel.de">Barbara Lehmann</a></li>
 	</ul>
 	<!-- content -->
 	<?php include('include/footer.html') ?>

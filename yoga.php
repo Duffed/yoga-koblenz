@@ -7,9 +7,9 @@
 			$(document).ready(function(){
 				$("#nav_yoga").addClass("current_page");
 
-				$("#yogasutra").click(function(){
-					$("div.yogasutra_container").slideToggle("fast");
-					$("p.yogasutra_hide").toggle("fast");
+				$("a.yogasutra_link").click(function(){
+					$("div.yogasutra_container").slideToggle("slow");
+					$("a.yogasutra_hide").toggle();
 				});
 			});
 		</script>
@@ -17,19 +17,19 @@
 <body>
 	<?php include('include/header.php') ?>
 	<!-- content -->
-	<h2>Hatha Yohga</h2>	
+	<h2>Hatha Yoga</h2>	
 	<p>Yoga ist ein Übungsweg, der über mehrere Jahrtausende hinweg in Indien entwickelt und überliefert
 	wurde. Der Sanskritbegriff “Yoga“ leitet sich von „Joch“ ab, was anschirren, vereinigen
 	bedeutet. Die spirituelle Zielsetzung im Yoga ist die Vereinigung mit dem „höchsten Selbst“, ist
 	die Erfahrung des tiefen Kerns unsers Bewustseins.</p>
 
 	<h2>Yoga Geschichte</h2>
-	<p>Die Grundlehrschrift des Yoga ist das <a href="#yogasutra">Yogasutra</a> von Patanjali, die vor etwa 2000 Jahren
+	<p>Die Grundlehrschrift des Yoga ist das <a class="yogasutra_link" href="#yogasutra">Yogasutra</a> von Patanjali, die vor etwa 2000 Jahren
 	verfasst wurde. Es ist die Lehrschrift vom menschlichen Geist und seinen Transformationsmöglichkeiten,
-	zeitlos, traditionsübergreifend und universell anwendbar. Hier fi nden wir Empfehlungen,
-	wie wir durch unser Verhalten zu innerem Frieden fi nden und ein harmonisches soziales
+	zeitlos, traditionsübergreifend und universell anwendbar. Hier finden wir Empfehlungen,
+	wie wir durch unser Verhalten zu innerem Frieden finden und ein harmonisches soziales
 	Leben führen können. <br>
-	Das <a href="#yogasutra">Yogasutra</a> basiert auf Erfahrung und gibt uns zahlreiche mentale Übungen, die uns in
+	Das <a class="yogasutra_link" href="#yogasutra">Yogasutra</a> basiert auf Erfahrung und gibt uns zahlreiche mentale Übungen, die uns in
 	Richtung essentielle Freiheit führen möchten.</p>
 
 	<p>Erst im 14. Jahrhundert ist die Hatha-Yoga-Pradipika geschrieben worden. Hier sind zahlreiche
@@ -51,12 +51,12 @@
 	Ich arbeite in <a href="mein_yoga.php">meinem Yoga Stil</a> im Geiste des Yoga-Sutras. So wie Desikachar betont, sollte die
 	Art und Weise des Übens uns „näher zu uns selbst führen“.</p>
 
-	<h2 id="yogasutra" class="pointer">Yogasutra <span class="info-text">(Ein-/Ausblenden)</span></h2>
-	<p class="yogasutra_hide">...</p>
-	<div class="yogasutra_container">
+	<h2 id="yogasutra">Yogasutra</h2>	
 		
-		<p>Patanjali, der bedeutendste Lehrer des Yoga, verfasste um Christi Geburt das Yogasutra.
-		Sutra bedeutet Faden und ist eine Dichtungsform des Sanskrit, der alten Sprache Indiens.
+		<p class="topmargin">Patanjali, der bedeutendste Lehrer des Yoga, verfasste um Christi Geburt das Yogasutra.<br></p>
+		<a class="yogasutra_link yogasutra_hide info-text pointer">weiter...</a>
+	<div class="yogasutra_container">
+		<p class="bottommargin">Sutra bedeutet Faden und ist eine Dichtungsform des Sanskrit, der alten Sprache Indiens.
 		Es ist mit nur 195 Sätzen sehr kurz und jeder einzelne Satz ist sehr gehaltvoll.
 		Der Zusammenhang der Sätze gleicht einer Perlenkette, aus einem Faden bestehend, der einzelne
 		kostbare Perlen zusammenhält.</p>

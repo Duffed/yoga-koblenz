@@ -46,7 +46,7 @@
 	(Lehrerin der Theravadaschule des Buddhismus)<br>
 	Vipassana- Meditation bei Dr. Galuska (Chefarzt der Fachklinik Heiligenfeld)<br>
 	Übung das Herzensgebet mit Willi Massa<br>
-	Teilnahme am Zen-Sesshin be Dr. Michael von Brück<br>
+	Teilnahme am Zen-Sesshin bei Dr. Michael von Brück<br>
 	8-Wochen-Programm MBSR (Mindfull Based Stress Reduktion)<br>
 	„Stressbewältigung durch Achtsamkeit“ nach Dr. Kabat-Zinn<br>
 	Mehrere Schweigekurse in „Intergaler Yoga-Meditation und Spiritualität“<br>
@@ -61,9 +61,9 @@
 	über 60 Jahre als Lehrer tätig</p>
 
 	<p>TKV Desikachar, Sohn und langjähriger Schüler Krishnamacharias, führt diese Tradition in das 21.
-	Jahrhundert fort. Er ist weltbekannt als Lehrer der Yogalehrer.</p>
+	Jahrhundert fort. Er ist weltbekannt als Lehrer der Yogalehrer. <br>
 
-	<p>Seine Arbeit ist von großer Bedeutung für die Anwendung und Erforschung der heilenden Kräfte
+	Seine Arbeit ist von großer Bedeutung für die Anwendung und Erforschung der heilenden Kräfte
 	des Yogas. In seiner Tradition wird entsprechend der Fähigkeiten und Bedürfnissen der Einzelnen
 	das Übungsprogramm angepasst.</p>
 

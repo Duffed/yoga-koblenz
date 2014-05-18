@@ -22,7 +22,8 @@
 	und Anleitung, das Körperbewusstsein zu schulen. <br>
 	Der Schwerpunkt meiner Übungsstunden liegt in spürender Achtsamkeit und der Förderung
 	von Entspannung. Die Atmung spielt dabei eine zentrale Rolle, denn sie verbindet Körper und
-	Geist. (Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout -Prophylaxe.)</p>
+	Geist.<br>
+	(Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout -Prophylaxe.)</p>
 
 	<p>Der Atem und die Bewegungsabläufe werden koordiniert und in achtsamer Wiederholung verlangsamt
 	und verfeinert. <br>
@@ -36,8 +37,8 @@
 	Körper, Atem und Geist wird als eine aufeinander bezogene Einheit angesprochen
 	(Asana, Pranayama und Meditation).</p>
 
-	<p>Die Yogapraxis gibt dem menschlichen System einen klugen Impuls zur Selbstregulation.
-	Mein Ziel ist die schrittweise positive Veränderung zum Gesundsein auf allen Ebenen,
+	<p>Die Yogapraxis gibt dem menschlichen System einen klugen Impuls zur Selbstregulation.<br>
+	Mein Ziel ist die schrittweise positive Veränderung zum Gesundsein auf allen Ebenen,<br>
 	„aus der Enge in die Weite“.</p>
 	<!-- content -->
 	<?php include('include/footer.html') ?>

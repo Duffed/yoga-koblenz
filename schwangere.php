@@ -32,7 +32,7 @@
 	<table id="schwangere">
 		<tr>
 			<th>Kursort</th>
-			<td>Hebammenpraxis „Hebiana“, <br>
+			<td>Hebammenpraxis <a href="http://hebiana.info/">Hebiana</a> <br>
 				Trierer Straße 285, 56072 Koblenz, Metternich</td>
 		</tr>
 		<tr>
