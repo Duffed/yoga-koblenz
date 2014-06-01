@@ -93,7 +93,7 @@ Grau: #595a59
 body {
 	font-family: "Open Sans";
 	margin-bottom:30px;
-	background: #a5c400 url(images/panorama.png) top center no-repeat;
+	background: #a5c400 url(images/panoramo_1900.jpg) top center no-repeat;
 }
 .wrapper{
 	max-width: 960px;
@@ -269,7 +269,7 @@ div.content {
 	padding-bottom: 200px;
 	min-height: 600px;
 	position: relative;
-	background: #fff url(images/klangschale.jpg) center bottom no-repeat;
+	background: #fff url(images/klangschale_b.png) center bottom no-repeat;
 	z-index: 1000
 }
 div.innerwrapper {
@@ -357,7 +357,7 @@ footer {
 		position: static;
 		padding-bottom: 130px;
 		min-height: 500px;		
-		background: #fff url(images/klangschale.jpg) center bottom no-repeat;
+		background: #fff url(images/klangschale_b.png) center bottom no-repeat;
 		background-size:90% auto;
 		z-index: 100
 	}
