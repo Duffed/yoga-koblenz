@@ -24,7 +24,9 @@
 	die Erfahrung des tiefen Kerns unsers Bewustseins.</p>
 
 	<h2>Yoga Geschichte</h2>
-	<p>Die Grundlehrschrift des Yoga ist das <a class="yogasutra_link" href="#yogasutra">Yogasutra</a> von Patanjali, die vor etwa 2000 Jahren
+	<p>
+	Die älteste Quelle des Yoga sind die Veden/Upanishaden, die aus dem 6. Jhd. vor Christus stammen.<br>
+	Die Grundlehrschrift des Yoga ist das <a class="yogasutra_link" href="#yogasutra">Yogasutra</a> von Patanjali, die vor etwa 2000 Jahren
 	verfasst wurde. Es ist die Lehrschrift vom menschlichen Geist und seinen Transformationsmöglichkeiten,
 	zeitlos, traditionsübergreifend und universell anwendbar. Hier finden wir Empfehlungen,
 	wie wir durch unser Verhalten zu innerem Frieden finden und ein harmonisches soziales
@@ -110,7 +112,7 @@
 		</table>
 
 		<p>und gibt Anleitung zu Körperübungen: <br>
-		a) kraftvoll üben und dabei leicht und verkrampft bleiben, <br>
+		a) kraftvoll üben und dabei leicht und unverkrampft bleiben, <br>
 		b) die Aufmerksamkeit des Geistes nicht verändern, sondern auf etwas Konstantes ausrichten.</p>
 	</div>
 	<!-- content -->

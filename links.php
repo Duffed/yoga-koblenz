@@ -27,6 +27,7 @@
 		<li><a href="http://www.hebania.de">Hebania Hebammenpraxis</a></li>
 		<li><a href="http://www.profamilia-rlp.de/de/beratungsstellen/koblenz">Profamilia Koblenz</a></li>
 		<li><a href="http://www.yoga-kassel.de">Barbara Lehmann</a></li>
+		<li><a href="http://www.arbor-seminare.de/jon-kabat-zinn">Jon Kabat Zinn</a></li>
 	</ul>
 	<!-- content -->
 	<?php include('include/footer.html') ?>

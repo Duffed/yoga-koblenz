@@ -13,7 +13,7 @@
 	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Ich beginne mit einem Gong</h2>	
-	<p>Die Arbeit als Entspannungstherapeutin basiert auf meiner langjährigen Yogapraxis und Meditationserfahrung.</p>
+	<p>Die Arbeit als Entspannungstherapeutin basiert auf meiner langjährigen Yogapraxis, Meditationserfahrung und Achtsamkeits&uuml;bungen.</p>
 
 	<p>In über 20 Jahren Leitung meiner Kurse habe ich erfahren, dass eine liebevolle, annehmende
 	Haltung der Übenden gegenüber ihrer momentanen Lebenssituation eine wesentliche Basis
@@ -23,7 +23,8 @@
 	Der Schwerpunkt meiner Übungsstunden liegt in spürender Achtsamkeit und der Förderung
 	von Entspannung. Die Atmung spielt dabei eine zentrale Rolle, denn sie verbindet Körper und
 	Geist.<br>
-	(Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout -Prophylaxe.)</p>
+	(Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout -Prophylaxe.)<br>
+	Ich vermittle &Uuml;bungen und eine innere Haltung, die Selbstvertrauen f&ouml;rdern und die Linderung von Stress bewirken.</p>
 
 	<p>Der Atem und die Bewegungsabläufe werden koordiniert und in achtsamer Wiederholung verlangsamt
 	und verfeinert. <br>
@@ -37,9 +38,17 @@
 	Körper, Atem und Geist wird als eine aufeinander bezogene Einheit angesprochen
 	(Asana, Pranayama und Meditation).</p>
 
-	<p>Die Yogapraxis gibt dem menschlichen System einen klugen Impuls zur Selbstregulation.<br>
+	<blockquote>
+		"Alles ist in Bewegung. Alles kommt und geht. Da ist nichts, was wir festhalten könnten.<br>
+		Beständig ist nur das Fliessen, nicht in der Statik. <br>
+		Achtsamkeit weckt in uns die Fähigkeit, dieses Fliessen und zugleich die Ruhe in aller Bewegung zu erfahren."
+		<br>
+		<em class="blockquote_author">Willigis Jäger</em>
+	</blockquote>
+
+	<p>Diese &Uuml;bungsmethode gibt dem menschlichen System einen klugen Impuls zur Selbstregulation.<br>
 	Mein Ziel ist die schrittweise positive Veränderung zum Gesundsein auf allen Ebenen,<br>
-	„aus der Enge in die Weite“.</p>
+	<b>„aus der Enge in die Weite“</b>.</p>
 	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>

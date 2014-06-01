@@ -41,11 +41,11 @@
 		</tr>
 		<tr>
 			<th>Gebühr</th>
-			<td>12&euro; pro 90 Minuten</td>
+			<td>12 &euro; pro 90 Minuten</td>
 		</tr>
 	</table>
 
-	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) und sollte zu
+	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) <br>und sollte zu
 	Beginn bezahlt werden.</p>
 	<!-- content -->
 	<?php include('include/footer.html') ?>

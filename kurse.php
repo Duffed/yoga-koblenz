@@ -32,7 +32,11 @@
 		</tr>
 		<tr>
 			<td>donnerstags:</td>
-			<td>9.15 Uhr und 20 Uhr</td>
+			<td>9:15 Uhr und 20 Uhr</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>NEU: Frühkurs von 8 bis 9 Uhr</td>
 		</tr>
 	</table>
 
@@ -47,8 +51,8 @@
 	56075 Koblenz Oberwerth</p>
 
 	<h3>Kursgebühr:</h3>
-	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses; <br>
-	10.- &euro; pro Abend und sollte bei Beginn des Kurses bezahlt werden.</p>
+	<p>10 &euro; pro 90 Minuten</p>
+	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>

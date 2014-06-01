@@ -93,7 +93,7 @@ Grau: #595a59
 body {
 	font-family: "Open Sans";
 	margin-bottom:30px;
-	background: #a5c400 url(images/panoramo_1900.jpg) top center no-repeat;
+	background: #a5c400 url(images/panoramo_1900.jpg) top left no-repeat;
 }
 .wrapper{
 	max-width: 960px;
@@ -150,6 +150,26 @@ table th {
 }
 b {
 	font-weight: bold;
+}
+ul.auflistung {
+	margin:.8em 0 1.2em 0;
+	list-style-type: none;
+	padding-left: 1.5em;
+	list-style-position: inside;
+	line-height: 1.2em;
+	position: relative;
+}
+ul.auflistung li {
+	position: relative;
+	margin-bottom: 2px
+}
+ul.auflistung li:before {
+	position: absolute;
+	top:0;
+	left:-1.3rem;
+	content: "-";
+
+	color:#8ea802;
 }
 
 /*Header*/
@@ -255,7 +275,7 @@ header {
 
 /*content*/
 img#rosi {
-	margin:0 20px 20px 0;
+	margin:0 15px 10px 0;
 }
 h2.index {
 	text-align: center;
@@ -286,6 +306,21 @@ ul#links li {
 }
 ul#links li:nth-child(even) {
 	padding-left:40px;
+}
+
+blockquote {
+	font-style: italic;
+	margin:.8em 1em 1.2em 0;
+	color:#555;
+	padding: 0 3em;
+	line-height: 1.3em
+}
+
+.blockquote_author {
+	display:block;
+	text-align: right;
+	color: black;
+	font-style: normal;
 }
 
 /* Yogasutra */
@@ -339,9 +374,17 @@ footer {
 }
 .onlymobile {display:none;}
 .notmobile {display: block}
+@media handheld, only screen and (min-width: 1500px) {
+	body {
+		background: #a5c400 url(images/panoramo_1900.jpg) top center no-repeat;
+	}
+}
 @media handheld, only screen and (max-width: 740px) {
 	.onlymobile {display:block;}
 	.notmobile {display: none}
+	body {
+		background: #a5c400 url(images/panoramo_1900.jpg) top center no-repeat;
+	}
 	h1 {
 		font-size: 1.5em
 	}

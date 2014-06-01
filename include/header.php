@@ -12,7 +12,7 @@
 	<!-- logo 'n stuff -->
 	<div id="logo_container" class="clearfix">
 		<span class="text_left notmobile">Rosi Kracht-Zech</span> 
-		<span class="text_right notmobile">Entspannungtherapeutin</span>
+		<span class="text_right notmobile">Entspannungstherapeutin</span>
 	</div>
 
 	<div class="innerwrapper">
