@@ -33,7 +33,7 @@
 		<tr>
 			<th>Kursort</th>
 			<td>Hebammenpraxis <a href="http://hebiana.info/">Hebiana</a> <br>
-				Trierer Straße 285, 56072 Koblenz, Metternich</td>
+				Trierer Straße 285, 56072 Koblenz-Metternich</td>
 		</tr>
 		<tr>
 			<th>Zeit</th>
@@ -41,12 +41,13 @@
 		</tr>
 		<tr>
 			<th>Gebühr</th>
-			<td>12 &euro; pro 90 Minuten</td>
+			<td>12 &euro; pro 90 Minuten
+				<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) <br>und sollte zu
+				Beginn bezahlt werden.</p>
+			</td>
 		</tr>
 	</table>
 
-	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) <br>und sollte zu
-	Beginn bezahlt werden.</p>
 	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>

@@ -29,6 +29,7 @@ Grau: #595a59
 .right {float: right;}
 .pointer {cursor: pointer;}
 .rosa:before, .rosa {color:#ba7092;}
+.green {color:#8cb110}
 
 /* Icon */
 @font-face {
@@ -318,9 +319,10 @@ blockquote {
 
 .blockquote_author {
 	display:block;
-	text-align: right;
+	text-align: left;
 	color: black;
 	font-style: normal;
+	margin-top: 10px
 }
 
 /* Yogasutra */
@@ -438,7 +440,13 @@ footer {
 		margin:0 20px 20px 0;
 		width:130px;
 	}
-
+	blockquote {
+		font-style: italic;
+		margin:.8em 1em 1.2em 0;
+		color:#555;
+		padding: 0 1em;
+		line-height: 1.3em
+	}
 }
 
 

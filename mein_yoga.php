@@ -23,27 +23,29 @@
 	Der Schwerpunkt meiner Übungsstunden liegt in spürender Achtsamkeit und der Förderung
 	von Entspannung. Die Atmung spielt dabei eine zentrale Rolle, denn sie verbindet Körper und
 	Geist.<br>
-	(Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout -Prophylaxe.)<br>
+	(Britta Hölzel, Hirnforscherin, bezeichnet Achtsamkeit als die beste Burnout-Prophylaxe.)<br>
 	Ich vermittle &Uuml;bungen und eine innere Haltung, die Selbstvertrauen f&ouml;rdern und die Linderung von Stress bewirken.</p>
 
 	<p>Der Atem und die Bewegungsabläufe werden koordiniert und in achtsamer Wiederholung verlangsamt
 	und verfeinert. <br>
 	Ich leite, den anatomisch funktionellen Gesetzmäßigkeiten folgend, Bewegungen präzise an
 	und korrigiere entsprechend. Dabei geht es um ein gezieltes Kräftigen und Dehnen bestimmter
-	Körperregionen und um das Aufl ösen von Blockaden, um ins Gleichgewicht der Kräfte zurückzufi
-	nden. Entscheidend ist, die individuelle Balance zwischen Bemühen und Loslassen zu
-	finden.</p>
+	Körperregionen und um das Auflösen von Blockaden, um ins Gleichgewicht der Kräfte zurückzufinden. 
+	Entscheidend ist, die individuelle Balance zwischen Bemühen und Loslassen zu finden.</p>
 
 	<p>Jede Übungseinheit ist im Wechsel zwischen Dynamik und Ruhe in sich ausgewogen;
-	Körper, Atem und Geist wird als eine aufeinander bezogene Einheit angesprochen
+	Körper, Atem und Geist werden als eine aufeinander bezogene Einheit angesprochen
 	(Asana, Pranayama und Meditation).</p>
 
 	<blockquote>
-		"Alles ist in Bewegung. Alles kommt und geht. Da ist nichts, was wir festhalten könnten.<br>
-		Beständig ist nur das Fliessen, nicht in der Statik. <br>
-		Achtsamkeit weckt in uns die Fähigkeit, dieses Fliessen und zugleich die Ruhe in aller Bewegung zu erfahren."
+		"Alles ist in Bewegung. Alles kommt und geht.<br>
+		Da ist nichts, was wir festhalten können.<br>
+		Beständig ist nur das Fließen.<br>
+		Die Permanenz liegt im Fließen, nicht in der Statik.<br>
+		Achtsamkeit weckt in uns die Fähigkeit, dieses Fließen<br>
+		und zugleich die Ruhe in aller Bewegung zu erfahren."
 		<br>
-		<em class="blockquote_author">Willigis Jäger</em>
+		<em class="blockquote_author">- <a href="http://www.west-oestliche-weisheit.de/willigis-jaeger.html">Willigis Jäger </a></em>
 	</blockquote>
 
 	<p>Diese &Uuml;bungsmethode gibt dem menschlichen System einen klugen Impuls zur Selbstregulation.<br>
