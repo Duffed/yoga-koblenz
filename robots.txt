@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /test/
+Sitemap: http://yoga-koblenz.de/sitemap.xml

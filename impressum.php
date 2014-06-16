@@ -21,6 +21,11 @@
 	<p>Tel.: 0261 / 500 80 77 <br>
 	<a href="mailto:seerose@yoga-koblenz.de">seerose@yoga-koblenz.de</a></p>
 
+	<p>
+		Design: Petra Dübbers<br>
+		Umsetzung: <a href="maito:duffed90@gmail.com" class="black">Joscha Diederichs</a>
+	</p>
+
 	<h2>Impressum</h2>
 	<p>Rosemarie Kracht-Zech<br>
 	Brahmsstraße 11<br>

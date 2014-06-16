@@ -8,8 +8,8 @@
 				$("#nav_yoga").addClass("current_page");
 
 				$("a.yogasutra_link").click(function(){
-					$("div.yogasutra_container").slideToggle("slow");
-					$("a.yogasutra_hide").toggle();
+					$("div.yogasutra_container").slideDown("slow");
+					$("a.yogasutra_hide").hide();
 				});
 			});
 		</script>

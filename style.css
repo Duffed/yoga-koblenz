@@ -30,6 +30,7 @@ Grau: #595a59
 .pointer {cursor: pointer;}
 .rosa:before, .rosa {color:#ba7092;}
 .green {color:#8cb110}
+.black {color:#000;}
 
 /* Icon */
 @font-face {
@@ -446,6 +447,9 @@ footer {
 		color:#555;
 		padding: 0 1em;
 		line-height: 1.3em
+	}
+	#footer_nav ul li.current_page a {
+		color: #000;
 	}
 }
 
