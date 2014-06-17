@@ -35,12 +35,12 @@
 		<li>"Rückenschulleiterin" bei Anne Stipp</li>
 		<li>"Spiraldynamik" bei Dr. Christian Larsen</li>
 		<li>"Anatomisch-funktionelle Gesetzmäßigkeiten" zur Präzisierung des Hatha Yoga<br>
-		über sechs Jahre bei Doris Echlin</li>
+			über sechs Jahre bei Doris Echlin</li>
 		<li>"zu einer soliden Basis finden" bei Anna Trökes</li>
 		<li>"Integrales Yoga" mit Helga Simon Wagenbach</li>
 		<li>"Yoga in der Schwangerschaft" bei Barbara Lehmann</li>
 		<li>8-Wochen-Programm MBSR (Mindfull Based Stress Reduktion)<br>
-		"Stressbewältigung durch Achtsamkeit" nach Dr. Kabat-Zinn</li>
+			"Stressbewältigung durch Achtsamkeit" nach Dr. Kabat-Zinn</li>
 		<li>"Yoga-Philosophie-Seminare" bei R. Sriram</li>
 		<li>"Therapeutische Anwendung des Yoga" bei Birgit Hampe</li>
 	</ul>
@@ -48,11 +48,11 @@
 	<h2>Mediationskurse:</h2>
 	<ul class="auflistung">
 		<li>Unterweisung von Meditationsmethoden durch Ayya Khema<br>
-		(Lehrerin der Theravadaschule des Buddhismus)</li>
+			(Lehrerin der Theravadaschule des Buddhismus)</li>
 		<li>Vipassana- Meditation bei Dr. Galuska (Chefarzt der Fachklinik Heiligenfeld)</li>
 		<li>Übung "Das Herzensgebet" mit Willi Massa</li>
 		<li>Mehrere Schweigekurse in "Intergaler Yoga-Meditation und Spiritualität"<br>
-		mit Hega Simon Wagenbach und Williges Jäger</li>
+			mit Hega Simon Wagenbach und Williges Jäger</li>
 		<li>Achtsamkeitstage mit Thich Nhat Hanh</li>
 		<li>"Praxis der grünen Tara" mit Silvia Wetzel (Lehrerin des Tibetischen Buddhismus</li>
 		<li>Regelmäßige Teilnahme an Meditationsretreats bei Frau Dr. Silvia Kolk</li>

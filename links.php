@@ -26,7 +26,7 @@
 		<li><a href="http://www.spiraldynamik.com">Spiraldynamik</a></li>
 		<li><a href="http://www.sylvia-kolk.de">Sylvia Kolk</a></li>
 		<li><a href="http://www.sylvia-wetzel.de">Sylvia Wetzel</a></li>
-		<li><a href="http://www.intersein.de (Thich Nhât Hanh)">Thich Nhât Hanh</a></li>
+		<li><a href="http://www.intersein.de">Thich Nhât Hanh</a></li>
 		<li><a href="http://www.west-oestliche-weisheit.de">Willigis Jäger</a></li>
 	</ul>
 	<!-- content -->
