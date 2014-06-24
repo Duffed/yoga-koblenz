@@ -93,7 +93,7 @@ Grau: #595a59
 .icon-up-big:before { content: '\e800'; } /* '' */
 
 body {
-	font-family: "Open Sans";
+	font-family: "Open Sans", "Franklin Gothic Medium", "Verdana";
 	margin-bottom:30px;
 	background: #a5c400 url(images/panoramo_1900.jpg) top left no-repeat;
 }
