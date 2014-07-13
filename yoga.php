@@ -39,14 +39,14 @@
 	erstmals Körperübungen in den Schwerpunkt der Yogapraxis gesetzt.</p>
 
 	<h2>Modernes Yoga</h2>
-	<p>T Krishnamacharya , einer der bedeutendsten Yogameister des 20. Jahrhundert, war Pionier
+	<p>T. Krishnamacharya , einer der bedeutendsten Yogameister des 20. Jahrhundert, war Pionier
 	in Bezug auf die Wiederbelebung der alten Yogalehren. Er passte das Wissen des Yoga an
 	die veränderten Lebensumstände und Bedürfnisse des modernen Menschen an. Er lehrte die
-	großen Yogameister von heute, wie seinen Sohn TKV Desikachar, BKS Iyengar, Sri Pattabhi Jois
+	großen Yogameister von heute, wie seinen Sohn T.K.V. Desikachar, BKS Iyengar, Sri Pattabhi Jois
 	und viele mehr.</p>
 	<p>Die heutigen unterschiedlichen Yogastile gehen auf die verschiedenen Lehrer zurück, wie zum Beispiel
 	"Iyengar- Yoga" auf BKS Iyengar, hinter dem kraftvollen "Ashtanga-Yoga" steht Sri Patthabhi Jois, "Viniyoga"
-	wird häufig für die Arbeit von TKV Desikachar benutzt.</p>
+	wird häufig für die Arbeit von T.K.V. Desikachar benutzt.</p>
 	<p>Hatha-Yoga ist ein &uuml;bergeordneter Begriff, mit dem alle Yogarichtungen bezeichnet werden, die Körperarbeit
 	integrieren.</p>
 	<p>Yoga ist ein wunderbar ganzheitlicher Übungsweg. <br>

@@ -5,13 +5,14 @@
 		<?php include('include/head.html') ?>
 	</head>
 <body>
-	<?php include('include/header_index.php') ?>
+	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2 class="index">
 		Ihr seid herzlich willkommen,<br/>
 		den Weg der Achtsamkeit <br/>
 		gemeinsam zu gehen
-	</h2>	<!-- content -->
+	</h2>
+	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>
 </html>

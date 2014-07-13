@@ -54,16 +54,16 @@
 		<li>Mehrere Schweigekurse in "Intergaler Yoga-Meditation und Spiritualität"<br>
 			mit Hega Simon Wagenbach und Williges Jäger</li>
 		<li>Achtsamkeitstage mit Thich Nhat Hanh</li>
-		<li>"Praxis der grünen Tara" mit Silvia Wetzel (Lehrerin des Tibetischen Buddhismus</li>
+		<li>"Praxis der grünen Tara" mit Silvia Wetzel (Lehrerin des Tibetischen Buddhismus)</li>
 		<li>Regelmäßige Teilnahme an Meditationsretreats bei Frau Dr. Silvia Kolk</li>
 	</ul>
 
 	<h2 id="yogameister">Yogameister</h2>
-	<p>T Krishnamacharya war einer der bedeutendsten Yogameister des 20. Jahrhunderts und Pionier in
+	<p>T. Krishnamacharya war einer der bedeutendsten Yogameister des 20. Jahrhunderts und Pionier in
 	Bezug auf die Wiederbelebung der alten Yogalehren und deren Erhalt für die moderne Welt. Er war
 	über 60 Jahre als Lehrer tätig.</p>
 
-	<p>TKV Desikachar, Sohn und langjähriger Schüler Krishnamacharias, führt diese Tradition in das 21.
+	<p>T.K.V. Desikachar, Sohn und langjähriger Schüler Krishnamacharias, führt diese Tradition in das 21.
 	Jahrhundert fort. Er ist weltbekannt als Lehrer der Yogalehrer. <br>
 
 	Seine Arbeit ist von großer Bedeutung für die Anwendung und Erforschung der heilenden Kräfte

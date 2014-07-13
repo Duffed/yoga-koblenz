@@ -94,7 +94,6 @@ Grau: #595a59
 
 body {
 	font-family: "Open Sans", Verdana;
-	margin-bottom: 30px;
 	background: #a5c400 url(images/panoramo_1900.jpg) top left no-repeat;
 }
 .wrapper{
@@ -180,7 +179,7 @@ ul.auflistung li:before {
 }
 header h1 {
 	text-align: center;
-	padding:.2em .3em .3em .3em;
+	padding:.3em .3em .3em .3em;
 	background:#a5c400;
 }
 header h1 a,
@@ -282,16 +281,18 @@ img#rosi {
 h2.index {
 	text-align: center;
 	font-style: italic;
-	font-size: 2em;
-	line-height: 2em;
+	margin-top:2em;
+	font-size: 1.8em;
+	line-height: 1.4em;
 	color:#555;
 	font-weight: normal;
 }
 div.content {
 	padding-bottom: 200px;
-	min-height: 600px;
+	min-height: 580px;
 	position: relative;
 	background: #fff url(images/klangschale_b.png) center bottom no-repeat;
+	background-size:70% auto;
 	z-index: 1000
 }
 div.innerwrapper {
@@ -373,7 +374,7 @@ footer {
 	background: #595a59;
 	text-align: center;
 	color: white;
-	padding: .5em;
+	padding: .35em;
 }
 .onlymobile {display:none;}
 .notmobile {display: block}
@@ -387,6 +388,7 @@ footer {
 	.notmobile {display: none}
 	body {
 		background: #a5c400 url(images/panoramo_1900.jpg) top center no-repeat;
+		margin-bottom: 30px;
 	}
 	h1 {
 		font-size: 1.5em
@@ -430,11 +432,8 @@ footer {
 		padding:.8em 0;
 	}
 	h2.index {
-		text-align: center;
-		font-style: italic;
 		font-size: 1.5em;
 		line-height: 1.4em;
-		color:#555;
 		font-weight: normal;
 	}
 	img#rosi {

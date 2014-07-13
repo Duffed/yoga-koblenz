@@ -18,7 +18,7 @@
 		<li><a href="http://www.birgit-hampe.de">Birgit Hampe</a></li>
 		<li><a href="http://www.nmr.mgh.harvard.edu/~britta/">Britta Hölzel</a></li>
 		<li><a href="http://www.dorisechlin.ch">Doris Echlin</a></li>
-		<li><a href="http://www.hebania.de">Hebania Hebammenpraxis</a></li>
+		<li><a href="http://hebiana.info/">Hebiana Hebammenpraxis</a></li>
 		<li><a href="http://www.helga-simon-wagenbach.de">Helga Simon Wagenbach</a></li>
 		<li><a href="http://www.arbor-seminare.de/jon-kabat-zinn">Jon Kabat Zinn</a></li>
 		<li><a href="http://www.profamilia-rlp.de/de/beratungsstellen/koblenz">Profamilia Koblenz</a></li>
