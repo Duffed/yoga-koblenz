@@ -124,7 +124,7 @@ p {
 	margin:.8em 0 1.2em 0;
 	line-height: 1.3em;
 }
-h1 { font-size: 2em}
+h1 { font-size: 1.9em}
 h2 { 
 	font-size: 1.3em; 
 }
@@ -179,7 +179,7 @@ ul.auflistung li:before {
 }
 header h1 {
 	text-align: center;
-	padding:.3em .3em .3em .3em;
+	padding:.3em 0 .4em 0;
 	background:#a5c400;
 }
 header h1 a,
@@ -194,9 +194,7 @@ header h1 a:hover {
 	color:#eee;
 	text-decoration: none;
 }
-header {
 
-}
 /*logo*/
 #index_logo_container {
 	text-align: center;
@@ -374,7 +372,10 @@ footer {
 	background: #595a59;
 	text-align: center;
 	color: white;
-	padding: .35em;
+	padding:.7em 0;
+}
+footer p {
+	margin:0;
 }
 .onlymobile {display:none;}
 .notmobile {display: block}
