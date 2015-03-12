@@ -51,7 +51,7 @@
 	56075 Koblenz Oberwerth</p>
 
 	<h3>Kursgebühr</h3>
-	<p>10 &euro; pro 90 Minuten</p>
+	<p>12 &euro; pro 90 Minuten</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
 
 	<!-- content -->

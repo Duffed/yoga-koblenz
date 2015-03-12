@@ -28,6 +28,7 @@
 		<li><a href="http://www.sylvia-wetzel.de">Sylvia Wetzel</a></li>
 		<li><a href="http://www.intersein.de">Thich Nhât Hanh</a></li>
 		<li><a href="http://www.west-oestliche-weisheit.de">Willigis Jäger</a></li>
+		<li><a href="http://www.yogaundorthopaedie.de">Dr. med. Günther Niessen</a></li>
 	</ul>
 	<!-- content -->
 	<?php include('include/footer.html') ?>
