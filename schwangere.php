@@ -13,20 +13,16 @@
 	<?php include('include/header.php') ?>
 	<!-- content -->
 	<h2>Yoga für Schwangere</h2>
-	<p>Yoga bietet die Möglichkeit, die Frauen in der besonderen Lebensphase der Schwangerschaft
-	zu stärken und die Geburt zu erleichtern.</p>
+	<p>Yoga bietet die Möglichkeit, die Frauen in der besonderen Lebensphase der Schwangerschaft zu stärken und das Körperbewusstsein zu schulen.</p>
 
-	<p>In den Übungsstunden gibt es genügend Raum, um nach Innen zu spüren, zu entspannen und
-	Kontakt mit dem heranwachsenden Kind aufzunehmen. <br>
-	Grundlegende Yogaübungen werden auf die Bedürfnisse der Schwangeren angepasst, um
-	besondere Körperregionen zu stabilisieren und Beschwerden zu lindern. <br>
-	Im Körper erwacht instinktive Intelligenz in dieser besonderen Zeit und das möchte ich fördern.</p>
+	<p>In den Übungsstunden gibt es genügend Raum nach Innen zu spüren und verschiedene Entspannungsmethoden zu lernen.<br>
+	Die Basis im Yoga ist die Übung der Achtsamkeit, was zu einer Haltung der gelassenen Präsenz führt, inmitten von dem was ist.<br>
+	Grundlegende Yogaübungen werden auf die Bedürfnisse der Schwangeren angepasst, um besondere Körperregionen zu stabilisieren und Beschwerden zu lindern.
+	</p>
 
-	<p>Die Einheit von Psyche und Physis ist während der Geburt besonders spürbar und somit geht
-	es mir in den Stunden darum, das Selbstvertrauen zu stärken. <br>
-	Insbesondere sind gezielte Atemübungen und Tönen besonders hilfreich unter der Geburt.</p>
+	<p>Die Einheit von Psyche und Physis ist während der Geburt besonders spürbar. Mir geht es in den Stunden darum, die Achtsamkeit und das Selbstvertrauen zu stärken, was in allen Lebensbereichen hilfreich ist.</p>
 
-	<p>Diese sanfte Yogapraxis kann bis zum letzten Tag der Schwangerschaft geübt werden.
+	<p>Diese sanfte Yogapraxis kann bis zum letzten Tag der Schwangerschaft geübt werden.<br>
 	Es sind keine Vorkenntnisse erforderlich.</p>
 
 	<table id="schwangere">

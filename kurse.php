@@ -20,6 +20,12 @@
 	<p>Der Einstieg für Interessentinnen mit und ohne Vorkenntnisse ist möglich. <br>
 	Es gibt auch ein <a href="schwangere.php">Kursangebot für Schwangere.</a></p>
 
+	<blockquote><b>
+		Das, was Du lernen willst zu tun, <br/>
+		lernst Du indem Du es tust.</b>
+		<em class="blockquote_author">- Aristoteles</em>
+	</blockquote>
+
 	<h3>Termine</h3>
 	<table id="termine">
 		<tr>
@@ -32,11 +38,9 @@
 		</tr>
 		<tr>
 			<td>Donnerstags:</td>
-			<td>9:15 Uhr und 20:00 Uhr</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>NEU: Frühkurs von 8:00 bis 9:00 Uhr</td>
+			<td>8:00 Uhr (60 Minuten)<br/>
+			9:15 Uhr <br/>
+			18:00 und 20:00 Uhr</td>
 		</tr>
 	</table>
 
@@ -51,8 +55,11 @@
 	56075 Koblenz Oberwerth</p>
 
 	<h3>Kursgebühr</h3>
-	<p>12 &euro; pro 90 Minuten</p>
+	<p>12 &euro; pro 90 Minuten <br>
+	10 &euro; pro 60 Minuten (Fr&uuml;hkurs)</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
+
+	<p class="update">Zuletzt aktualisiert: Mai 2017</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>

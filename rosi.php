@@ -43,6 +43,7 @@
 			"Stressbewältigung durch Achtsamkeit" nach Dr. Kabat-Zinn</li>
 		<li>"Yoga-Philosophie-Seminare" bei R. Sriram</li>
 		<li>"Therapeutische Anwendung des Yoga" bei Birgit Hampe</li>
+		<li>"Yoga und Medizin" bei Dr. med. Günther Niessen</li>
 	</ul>
 
 	<h2>Mediationskurse:</h2>
