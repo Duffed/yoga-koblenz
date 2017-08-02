@@ -42,6 +42,11 @@
 			9:15 Uhr <br/>
 			18:00 und 20:00 Uhr</td>
 		</tr>
+		<tr>
+			<td><b>NEU</b> Dienstags:</td>
+			<td>18:00 Uhr <br/>
+			(ab dem 05.09.2017)<br/></td>
+		</tr>
 	</table>
 
 	<h3>Kursort</h3>
@@ -53,6 +58,12 @@
 	Yogaschule R. Itschert<br>
 	Simrockstr. 7a<br>
 	56075 Koblenz Oberwerth</p>
+
+	<p>
+		<b>Dienstags 18:00 Uhr</b><br>
+		Parkstr. 3 <br>
+		56075 Koblenz Oberwerth
+	</p>
 
 	<h3>Kursgebühr</h3>
 	<p>12 &euro; pro 90 Minuten <br>
