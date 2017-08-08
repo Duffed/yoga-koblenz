@@ -61,7 +61,7 @@
 
 	<p>
 		<b>Dienstags 18:00 Uhr</b><br>
-		Parkstr. 3 <br>
+		Parkstr. 7 <br>
 		56075 Koblenz Oberwerth
 	</p>
 
