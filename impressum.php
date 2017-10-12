@@ -19,7 +19,7 @@
 	</p>
 
 	<p>Tel.: 0261 / 500 80 77 <br>
-	<a href="mailto:seerose@yoga-koblenz.de">seerose@yoga-koblenz.de</a></p>
+	<a href="mailto:seerose.yoga@gmail.com">seerose.yoga@gmail.com</a></p>
 
 	<p>
 		Design: Petra Dübbers<br>
