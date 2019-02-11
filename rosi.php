@@ -57,6 +57,7 @@
 		<li>Achtsamkeitstage mit Thich Nhat Hanh</li>
 		<li>"Praxis der grünen Tara" mit Silvia Wetzel (Lehrerin des Tibetischen Buddhismus)</li>
 		<li>Regelmäßige Teilnahme an Meditationsretreats bei Frau Dr. Silvia Kolk</li>
+		<li>Praxis der Stille und inneres Erforschen mit Richard Stiegler</li>
 	</ul>
 
 	<h2 id="yogameister">Yogameister</h2>
