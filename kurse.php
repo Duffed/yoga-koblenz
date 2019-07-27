@@ -50,7 +50,7 @@
 		<tr>
 			<td>Donnerstags:</td>
 			<td>08:00 Uhr<br>
-				09:15 Uhr<<br>
+				09:15 Uhr<br>
 				18:00 Uhr<br>
 				20:00 Uhr</td>
 			<td>aktiviko<br>
