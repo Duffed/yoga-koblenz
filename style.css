@@ -134,10 +134,10 @@ table {
 }
 table#termine {
 	margin:.8em 0 1.2em 0;
-	line-height: 1.1em;
+	line-height: 1.4em;
 }
-table#termine td:first-child {
-	width: 8em
+table#termine td {
+	padding: 0 1em 1em 0;
 }
 table td,
 table th{
