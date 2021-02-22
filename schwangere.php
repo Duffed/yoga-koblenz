@@ -44,6 +44,11 @@
 		</tr>
 	</table>
 
+	<p>
+		<b>Hinweis: </b> Während des Lockdowns finden die Kurs online über Zoom statt
+		<br/>
+	</p>
+
 	<!-- content -->
 	<?php include('include/footer.html') ?>
 </body>

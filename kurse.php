@@ -37,8 +37,8 @@
 			<td>Dienstags:</td>
 			<td>09:00 Uhr <br>
 				18:00 Uhr</td>
-			<td>Pro Familia<br>
-				Gymnatikraum</td>
+			<td>Gymnastikraum<br>
+				Gymnastikraum</td>
 		</tr>
 		<tr>
 			<td>Mittwochs:</td>
@@ -49,16 +49,20 @@
 		</tr>
 		<tr>
 			<td>Donnerstags:</td>
-			<td>08:00 Uhr<br>
-				09:15 Uhr<br>
-				18:00 Uhr<br>
+			<td>18:00 Uhr<br>
 				20:00 Uhr</td>
-			<td>aktiviko<br>
-				aktiviko<br>
-				Gymnatikraum<br>
-				Gymnatikraum</td>
+			<td>Gymnastikraum<br>
+				Gymnastikraum</td>
+		</tr>
+		<tr>
+			<td>Freitags:</td>
+			<td>08:00 Uhr<br>
+				09:15 Uhr</td>
+			<td>Gymnastikraum<br>
+				Gymnastikraum</td>
 		</tr>
 	</table>
+
 
 	<h3>Kursorte</h3>
 	<p><b>Gruppenraum der Pro Familia</b><br>
@@ -68,17 +72,19 @@
 	<p><b>Gymnastikraum des Rot-Weiß- Koblenz Vereins</b><br>
 	Parkstraße 7<br>
 	56075 Koblenz Oberwerth</p>
-
-	<p><b>aktiviko</b><br>
-	St.Josef-Platz 14<br>
-	56068 Koblenz</p>
+	
+	<p>
+		<b>Hinweis: </b> Während des Lockdowns finden die Kurs online über Zoom statt
+		<br/>
+	</p>
 
 	<h3>Kursgebühr</h3>
 	<p>12 &euro; pro 90 Minuten <br>
-	10 &euro; pro 60 Minuten (Fr&uuml;hkurs)</p>
+	10 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs)</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
+	
 
-	<p class="update">Zuletzt aktualisiert: Juli 2019</p>
+	<p class="update">Zuletzt aktualisiert: Februar 2021</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>
