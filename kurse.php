@@ -30,8 +30,10 @@
 	<table id="termine">
 		<tr>
 			<td>Montags:</td>
-			<td>18:00 Uhr</td>
-			<td>Pro Familia</td>
+			<td>17:00 Uhr <br>
+				18:45 Uhr</td>
+			<td>Zoom <br>
+				Pro Familia</td>
 		</tr>
 		<tr>
 			<td>Dienstags:</td>
@@ -43,7 +45,7 @@
 		<tr>
 			<td>Mittwochs:</td>
 			<td>18:00 Uhr <br>
-				20:00 Uhr</td>
+				19:50 Uhr</td>
 			<td>Pro Familia<br>
 				Pro Familia</td>
 		</tr>
