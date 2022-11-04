@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-	<head>		
-		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
+	<head>
+		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>
 		<?php include('include/head.html') ?>
 		<script>
 			$(document).ready(function(){
@@ -38,7 +38,7 @@
 		<tr>
 			<td>Dienstags:</td>
 			<td>09:00 Uhr <br>
-				18:00 Uhr</td>
+				17:45 Uhr</td>
 			<td>Gymnastikraum<br>
 				Gymnastikraum</td>
 		</tr>
@@ -74,17 +74,17 @@
 	<p><b>Gymnastikraum des Rot-Weiß- Koblenz Vereins</b><br>
 	Parkstraße 7<br>
 	56075 Koblenz Oberwerth</p>
-	
+
 	<p>
 		<b>Hinweis: </b> Während des Lockdowns finden die Kurs online über Zoom statt
 		<br/>
 	</p>
 
 	<h3>Kursgebühr</h3>
-	<p>12 &euro; pro 90 Minuten <br>
-	10 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs)</p>
+	<p>13 &euro; pro 90 Minuten <br>
+	12 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs)</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
-	
+
 
 	<p class="update">Zuletzt aktualisiert: Februar 2021</p>
 

@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-	<head>		
-		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
+	<head>
+		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>
 		<?php include('include/head.html') ?>
 		<script>
 			$(document).ready(function(){
@@ -45,7 +45,7 @@
 	</table>
 
 	<p>
-		<b>Hinweis: </b> Während des Lockdowns finden die Kurs online über Zoom statt
+		<b>Hinweis: </b> Während des Lockdowns finden die Kurse online über Zoom statt
 		<br/>
 	</p>
 
