@@ -37,17 +37,14 @@
 		</tr>
 		<tr>
 			<th>Gebühr</th>
-			<td>12 &euro; pro 90 Minuten
+			<td>13 &euro; pro 90 Minuten
 				<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) <br>und sollte zu
 				Beginn bezahlt werden.</p>
 			</td>
 		</tr>
 	</table>
 
-	<p>
-		<b>Hinweis: </b> Während des Lockdowns finden die Kurse online über Zoom statt
-		<br/>
-	</p>
+	<p class="update">Zuletzt aktualisiert: November 2022</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>

@@ -86,7 +86,7 @@
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
 
 
-	<p class="update">Zuletzt aktualisiert: Februar 2021</p>
+	<p class="update">Zuletzt aktualisiert: November 2022</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>
