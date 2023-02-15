@@ -37,7 +37,7 @@
 		</tr>
 		<tr>
 			<th>Gebühr</th>
-			<td>13 &euro; pro 90 Minuten
+			<td>14 &euro; pro 90 Minuten
 				<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses (5 - 8 Einheiten) <br>und sollte zu
 				Beginn bezahlt werden.</p>
 			</td>

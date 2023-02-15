@@ -30,7 +30,7 @@
 	<table id="termine">
 		<tr>
 			<td>Montags:</td>
-			<td>17:00 Uhr <br>
+			<td>17:15 Uhr <br>
 				18:45 Uhr</td>
 			<td>Zoom <br>
 				Pro Familia</td>
@@ -52,7 +52,7 @@
 		<tr>
 			<td>Donnerstags:</td>
 			<td>18:00 Uhr<br>
-				20:00 Uhr</td>
+				19:50 Uhr</td>
 			<td>Gymnastikraum<br>
 				Gymnastikraum</td>
 		</tr>
@@ -74,11 +74,6 @@
 	<p><b>Gymnastikraum des Rot-Weiß- Koblenz Vereins</b><br>
 	Parkstraße 7<br>
 	56075 Koblenz Oberwerth</p>
-
-	<p>
-		<b>Hinweis: </b> Während des Lockdowns finden die Kurs online über Zoom statt
-		<br/>
-	</p>
 
 	<h3>Kursgebühr</h3>
 	<p>13 &euro; pro 90 Minuten <br>
