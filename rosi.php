@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-	<head>		
-		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
+	<head>
+		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>
 		<?php include('include/head.html') ?>
 		<script>
 			$(document).ready(function(){
@@ -30,6 +30,8 @@
 	von Professor <a href="#yogameister">T.Krishnamacharya</a> und <a href="#yogameister">T.K.V. Desikachar</a> absolviert und bin dadurch qualifiziert
 	Einzelunterricht zu erteilen.</p>
 
+	<p>Von September 2020 bis März 2023 habe ich am Training „Schritte ins Sein - transpersonale Prozessarbeit“ bei Richard Stiegler teilgenommen. Dort habe ich die Grundlagen für die Begleitung des achtsamen Erforschen gelernt. Sie ist eine spezielle Praxis der inneren Achtsamkeit, die sich mit Offenheit, Annahme und Interesse dem gegenwärtigen Seelenfluss zuwendet.</p>
+
 	<h2>Fortbildung:</h2>
 	<ul class="auflistung">
 		<li>"Rückenschulleiterin" bei Anne Stipp</li>
@@ -44,16 +46,17 @@
 		<li>"Yoga-Philosophie-Seminare" bei R. Sriram</li>
 		<li>"Therapeutische Anwendung des Yoga" bei Birgit Hampe</li>
 		<li>"Yoga und Medizin" bei Dr. med. Günther Niessen</li>
+		<li>„Schritte ins Sein - transpersonale Prozessarbeit“ bei Richard Stiegler</li>
 	</ul>
 
-	<h2>Mediationskurse:</h2>
+	<h2>Meditationskurse:</h2>
 	<ul class="auflistung">
 		<li>Unterweisung von Meditationsmethoden durch Ayya Khema<br>
 			(Lehrerin der Theravadaschule des Buddhismus)</li>
 		<li>Vipassana- Meditation bei Dr. Galuska (Chefarzt der Fachklinik Heiligenfeld)</li>
 		<li>Übung "Das Herzensgebet" mit Willi Massa</li>
 		<li>Mehrere Schweigekurse in "Intergaler Yoga-Meditation und Spiritualität"<br>
-			mit Hega Simon Wagenbach und Williges Jäger</li>
+			mit Helga Simon Wagenbach und Williges Jäger</li>
 		<li>Achtsamkeitstage mit Thich Nhat Hanh</li>
 		<li>"Praxis der grünen Tara" mit Silvia Wetzel (Lehrerin des Tibetischen Buddhismus)</li>
 		<li>Regelmäßige Teilnahme an Meditationsretreats bei Frau Dr. Silvia Kolk</li>
