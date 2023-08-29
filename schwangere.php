@@ -33,7 +33,7 @@
 		</tr>
 		<tr>
 			<th>Zeit</th>
-			<td>Freitags von 17:30 Uhr bis 19:00</td>
+			<td>Freitags von 17:00 Uhr bis 18:30</td>
 		</tr>
 		<tr>
 			<th>Gebühr</th>
