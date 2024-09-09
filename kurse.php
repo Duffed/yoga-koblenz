@@ -38,7 +38,7 @@
 		<tr>
 			<td>Dienstags:</td>
 			<td>09:00 Uhr <br>
-				17:45 Uhr</td>
+				18:00 Uhr</td>
 			<td>Gymnastikraum<br>
 				Gymnastikraum</td>
 		</tr>
@@ -77,11 +77,11 @@
 
 	<h3>Kursgebühr</h3>
 	<p>13 &euro; pro 90 Minuten <br>
-	12 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs)</p>
+	12 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs und Zoom)</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
 
 
-	<p class="update">Zuletzt aktualisiert: November 2022</p>
+	<p class="update">Zuletzt aktualisiert: September 2024</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>
