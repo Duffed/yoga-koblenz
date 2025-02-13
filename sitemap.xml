@@ -29,10 +29,10 @@
   <loc>http://yoga-koblenz.de/kurse.php</loc>
   <changefreq>weekly</changefreq>
 </url>
-<url>
+<!-- <url>
   <loc>http://yoga-koblenz.de/schwangere.php</loc>
   <changefreq>weekly</changefreq>
-</url>
+</url> -->
 <url>
   <loc>http://yoga-koblenz.de/links.php</loc>
   <changefreq>weekly</changefreq>
