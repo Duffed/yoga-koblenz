@@ -17,8 +17,7 @@
 	Ein Kurs besteht aus 8 bis 14 Abenden à 90 Minuten. <br>
 	Die Kurse finden fortlaufend statt und richten sich in etwa nach den Schulferien.</p>
 
-	<p>Der Einstieg für Interessentinnen mit und ohne Vorkenntnisse ist möglich. <br>
-	Es gibt auch ein <a href="schwangere.php">Kursangebot für Schwangere.</a></p>
+	<p>Der Einstieg für Interessentinnen mit und ohne Vorkenntnisse ist möglich.</p>
 
 	<blockquote><b>
 		Das, was Du lernen willst zu tun, <br/>
@@ -76,12 +75,12 @@
 	56075 Koblenz Oberwerth</p>
 
 	<h3>Kursgebühr</h3>
-	<p>13 &euro; pro 90 Minuten <br>
+	<p>14 &euro; pro 90 Minuten <br>
 	12 &euro; pro 60 Minuten (Freitags 08:00 Uhr Kurs und Zoom)</p>
 	<p>Die gesamte Gebühr richtet sich nach der Länge des Kurses<br> und sollte bei Beginn des Kurses bezahlt werden.</p>
 
 
-	<p class="update">Zuletzt aktualisiert: September 2024</p>
+	<p class="update">Zuletzt aktualisiert: Juli 2025</p>
 
 	<!-- content -->
 	<?php include('include/footer.html') ?>
