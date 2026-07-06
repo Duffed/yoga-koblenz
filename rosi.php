@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-	<head>
-		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>
+	<head>		
+		<title>Rosi Kracht-Zech | Yoga in der Vorstadt</title>	
 		<?php include('include/head.html') ?>
 		<script>
 			$(document).ready(function(){
@@ -21,7 +21,7 @@
 	heute Entspannungstherapeutin mit der Grundausbildung Yogalehrerin
 	BDY</p>
 
-	<p>Mit 23 Jahren habe ich begonnen <a href="yoga.php">Yoga</a> zu praktizieren und war von dem
+	<p>Mit 23 Jahren habe ich begonnen <a href="/yoga">Yoga</a> zu praktizieren und war von dem
 	ganzheitlichen Übungsweg fasziniert. <br>
 	Von 1990 bis 1993 habe ich bei der GGF die Ausbildung zur Yogalehrerin
 	absolviert und wurde vom BDY/EYU geprüft. Seitdem leite ich mit viel Freude selbständig
